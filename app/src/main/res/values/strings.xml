@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HesaplamaUygulamasi</string>
+    <string name="final_notu">Final Notu</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sonu">Sonuç</string>
+    <string name="vize_notu">Vize Notu</string>
+</resources>
